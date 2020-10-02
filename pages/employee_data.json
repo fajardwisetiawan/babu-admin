@@ -1,0 +1,28 @@
+{
+    "data": [{
+            "id_user": "5f2250850da6173f3c8d0244",
+            "username": "operator1",
+            "date": "2020-03-12",
+            "count_op": 107
+        },
+        {
+            "id_user": "5f2250900da6173f3c8d0245",
+            "username": "operator2",
+            "date": "2020-03-12",
+            "count_op": 182
+        },
+        {
+            "id_user": "5f2250900da6173f3c8d0245",
+            "username": "operator1",
+            "date": "2020-04-12",
+            "count_op": 113
+        },
+        {
+            "id_user": "5f2250900da6173f3c8d0245",
+            "username": "operator2",
+            "date": "2020-04-12",
+            "count_op": 163
+        }
+    ],
+    "count": 289
+}
